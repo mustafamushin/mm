@@ -1,0 +1,32 @@
+name: baqi
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  firebase_core: ^2.5.0
+  cloud_firestore: 4.17.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/NRT-Bd.ttf
+
+  fonts:
+    - family: NRT
+      fonts:
+        - asset: assets/fonts/NRT-Bd.ttf

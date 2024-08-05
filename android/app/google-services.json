@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207188988765",
+    "project_id": "baqi-e8ad8",
+    "storage_bucket": "baqi-e8ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207188988765:android:d3e73625eabb3394320eb4",
+        "android_client_info": {
+          "package_name": "com.example.baqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgeup5FFiGrRfZWXvTmX8qoVUpf7pPAoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
